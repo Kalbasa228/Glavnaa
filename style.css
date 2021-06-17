@@ -29,3 +29,12 @@ a {
     box-shadow: 0 5px 0 0 royalblue;
     color: yellowgreen;
 }
+
+a:hover {
+    opacity: 1;
+    border: 6px solid navy;
+    width: 600px;
+    height: 500px;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
