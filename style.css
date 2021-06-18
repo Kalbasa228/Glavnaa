@@ -42,14 +42,3 @@ a {
     transition: 1.5s ease-in;
 }
 
-    h1:hover{
-    color: yellow;
-    background-color: lightyellow;
-    transition: 1.5s ease-in;
-}
-
-    h2:hover{
-    color: yellow;
-    background-color: lightyellow;
-    transition: 1.5s ease-in;
-}
