@@ -29,11 +29,9 @@ a {
     box-shadow: 0 5px 0 0 royalblue;
     color: yellowgreen;
 }
-
-img:hover {
-    opacity: 1;
-    width: 600px;
-    height: 500px;
-    transition: 0.5s ease-out;
-    padding: 5px;
+    
+    a:hover{
+    color: blueviolet;
+    background-color: lightyellow;
+    transition: 1.5s ease-in;
 }
